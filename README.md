@@ -9,11 +9,12 @@ O MiGuia é um sistema que auxilia a locomoção de deficientes visuais em ambiente
 
 ### **O QUE HÁ NESTE REPOSITÓRIO?** ##
 
-MiGuiaApp.zip - arquivo zip que contém o código do aplicativo para smartphone com Android OS.
+MiGuia_AplicativoAndroid - pasta que contém o código-fonte do aplicativo para smartphone com Android OS.
 
-código arduino - pasta que contém o arquivo códigoArduino.zip, dentro do qual está o código que deve ser executado na plataforma arduino.
+MiGuia_AlgoritmoArduino - pasta que contém o arquivo miguia_arduino_code.ino, dentro do qual está o código que deve ser executado na plataforma arduino.
 
 
--------------------------------------------------------------Observação: Antes de fazer a conexão do smartphone com o dispositivo acoplado à bengala, certifique-se de que o dispositivo acoplado à bengala está ligado e que está executando o código do sistema MiGuia para a placa arduino.
+-------------------------------------------------------------
+Observação: Antes de fazer a conexão do smartphone com o dispositivo acoplado à bengala, certifique-se de que o dispositivo acoplado à bengala está ligado e que está executando o código do sistema MiGuia para a placa arduino.
 -------------------------------------------------------------
 
