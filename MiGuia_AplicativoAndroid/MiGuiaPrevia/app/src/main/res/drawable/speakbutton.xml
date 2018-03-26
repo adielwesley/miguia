@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true"
+        android:state_pressed="false"
+        android:drawable="@mipmap/button_speak" />
+    <item android:state_enabled="true"
+        android:state_pressed="true"
+        android:drawable="@mipmap/button_speak_pressed" />
+    <item android:state_enabled="false"
+        android:state_pressed="false"
+        android:drawable="@mipmap/button_speak_disabled2" />
+    <item android:drawable="@mipmap/button_speak" />
+</selector>
